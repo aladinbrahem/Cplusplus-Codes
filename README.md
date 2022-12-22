@@ -1,2 +1,2 @@
-# C-section
+# C++-section
 all you need
